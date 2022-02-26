@@ -23,9 +23,9 @@ jobs:
 
       - name: Deploy to GH Pages
         run: |
-          git config --global user.email madhukm3141@gmail.com
-          git config --global user.name gammaSpeck
-          git remote set-url origin https://${{secrets.MD_ACCESS_TOKEN}}@github.com/gammaSpeck/md-resume.git
+          git config --global user.email cmarjun1000@gmail.com
+          git config --global user.name cmarjun1000
+          git remote set-url origin https://${{secrets.MD_ACCESS_TOKEN}}@github.com/cmarjun1000/md-resume.git
           npm run deploy
 
       - name: Updating Domain

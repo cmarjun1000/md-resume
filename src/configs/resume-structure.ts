@@ -1,24 +1,24 @@
 export default {
   personalInfo: {
-    fullName: 'Madhusoodhanan KM',
+    fullName: 'C M Arju',
     jobStatus: 'Full Stack Developer', // Can also be the post you are looking for
     avatarPic: 'URL',
     contact: {
-      mobile: '+91-9738575801',
-      email: 'madhukm3141@gmail.com',
+      mobile: '+91-9632106868',
+      email: 'cmarjun1000@gmail.com',
       address: 'Bengaluru, Karnataka, India',
-      github: 'https://github.com/gammaSpeck',
-      linkedIn: 'https://linkedin.com/in/madhusoodhanan-km'
+      github: 'https://github.com/cmarjun1000',
+      linkedIn: 'https://www.linkedin.com/in/c-m-arjun-14b5031a0/'
     }
   },
   experiences: [
     {
-      title: 'Associate Software Engineer',
-      company: 'mscripts, a Cardinal Health Company',
+      title: 'Software Engineer',
+      company: 'BYJU\'s',
       location: 'Bengaluru, India',
-      dateRange: '06/2019 - Ongoing',
+      dateRange: '01/2021 - Ongoing',
       aboutCompany:
-        'Healthcare providers in the US use mscripts to communicate digitally with patients about their health.',
+        'BYJU\'S is a global ed-tech company, providing highly adaptive, engaging and effective learning solutions to more than 150 million students around the world.',
       summary: {
         title: 'Responsibilities',
         actions: [
@@ -33,13 +33,13 @@ export default {
     },
     {
       title: 'Software Engineering Intern',
-      company: 'mscripts',
+      company: 'BYJU\'s',
       location: 'Bengaluru, India',
-      dateRange: '01/2019 - 06/2019',
+      dateRange: '10/2020 - 01/2021',
       summary: {
         title: '',
         actions: [
-          'Built micro-services using the serverless framework.',
+          'Built modules that were taken into production.',
           'Built shared repository of common reusable modules.'
         ]
       }
@@ -50,25 +50,25 @@ export default {
       title: 'Bachelors in CS Engineering',
       institution: 'CMRIT',
       location: 'Bengaluru, India',
-      dateRange: '2015-2019',
+      dateRange: '2016-2020',
       achievements: ['', ''],
-      grade: '7.3 / 10' // CGPA
+      grade: '8.3 / 10' // CGPA
     },
     {
-      title: 'PUC - PCMB',
-      institution: 'Christ Junior College',
+      title: 'PUC - PCME',
+      institution: 'New Horizon PU College',
       location: 'Bengaluru, India',
-      dateRange: '2013-2015',
+      dateRange: '2014-2016',
       achievements: [],
-      grade: '84%'
+      grade: '90%'
     },
     {
       title: 'Secondary Education',
-      institution: 'St Thomas Public School',
+      institution: 'Shishya Public School',
       location: 'Bengaluru, India',
-      dateRange: '2015',
+      dateRange: '2014',
       achievements: [],
-      grade: '92%'
+      grade: '91%'
     }
   ],
   projects: [
@@ -115,8 +115,9 @@ export default {
   languages: [
     { name: 'English', proficiency: 'Advanced' },
     { name: 'Hindi', proficiency: 'Proficient' },
+    { name: 'Malayalam', proficiency: 'Proficient' },
     { name: 'Tamil', proficiency: 'Intermediate' },
-    { name: 'Malayalam', proficiency: 'Intermediate' }
+    { name: 'Kannada', proficiency: 'Intermediate' }
   ],
-  socialProfiles: [{ name: 'GitHub', link: 'https://github.com/gammaSpeck' }]
+  socialProfiles: [{ name: 'GitHub', link: 'https://github.com/cmarjun1000' }]
 }

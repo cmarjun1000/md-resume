@@ -40,4 +40,4 @@ If you liked the content, please do the following:
 
 ## Contributors
 
-Madhusoodhanan KM
+C M Arjun

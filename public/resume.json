@@ -1,23 +1,23 @@
 {
   "personalInfo": {
-    "fullName": "C M Arjun",
+    "fullName": "C M Arju",
     "jobStatus": "Full Stack Developer",
     "avatarPic": "URL",
     "contact": {
-      "mobile": "+91-9738575801",
+      "mobile": "+91-9632106868",
       "email": "cmarjun1000@gmail.com",
       "address": "Bengaluru, Karnataka, India",
       "github": "https://github.com/cmarjun1000",
-      "linkedIn": "https://linkedin.com/in/madhusoodhanan-km"
+      "linkedIn": "https://www.linkedin.com/in/c-m-arjun-14b5031a0/"
     }
   },
   "experiences": [
     {
-      "title": "Associate Software Engineer",
-      "company": "mscripts, a Cardinal Health Company",
+      "title": "Software Engineer",
+      "company": "BYJU's",
       "location": "Bengaluru, India",
-      "dateRange": "06/2019 - Ongoing",
-      "aboutCompany": "Healthcare providers in the US use mscripts to communicate digitally with patients about their health.",
+      "dateRange": "01/2021 - Ongoing",
+      "aboutCompany": "BYJU'S is a global ed-tech company, providing highly adaptive, engaging and effective learning solutions to more than 150 million students around the world.",
       "summary": {
         "title": "Responsibilities",
         "actions": [
@@ -31,13 +31,13 @@
     },
     {
       "title": "Software Engineering Intern",
-      "company": "mscripts",
+      "company": "BYJU's",
       "location": "Bengaluru, India",
-      "dateRange": "01/2019 - 06/2019",
+      "dateRange": "10/2020 - 01/2021",
       "summary": {
         "title": "",
         "actions": [
-          "Built micro-services using the serverless framework.",
+          "Built modules that were taken into production.",
           "Built shared repository of common reusable modules."
         ]
       }
