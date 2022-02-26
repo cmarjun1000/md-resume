@@ -1,13 +1,13 @@
 {
   "personalInfo": {
-    "fullName": "Madhusoodhanan KM",
+    "fullName": "C M Arjun",
     "jobStatus": "Full Stack Developer",
     "avatarPic": "URL",
     "contact": {
       "mobile": "+91-9738575801",
-      "email": "madhukm3141@gmail.com",
+      "email": "cmarjun1000@gmail.com",
       "address": "Bengaluru, Karnataka, India",
-      "github": "https://github.com/gammaSpeck",
+      "github": "https://github.com/cmarjun1000",
       "linkedIn": "https://linkedin.com/in/madhusoodhanan-km"
     }
   },
@@ -48,28 +48,28 @@
       "title": "Bachelors in CS Engineering",
       "institution": "CMRIT",
       "location": "Bengaluru, India",
-      "dateRange": "2015-2019",
+      "dateRange": "2016-2020",
       "achievements": [
         "",
         ""
       ],
-      "grade": "7.3 / 10"
+      "grade": "8.3 / 10"
     },
     {
-      "title": "PUC - PCMB",
-      "institution": "Christ Junior College",
+      "title": "PUC - PCME",
+      "institution": "New Horizon PU College",
       "location": "Bengaluru, India",
-      "dateRange": "2013-2015",
+      "dateRange": "2014-2016",
       "achievements": [],
-      "grade": "84%"
+      "grade": "90%"
     },
     {
       "title": "Secondary Education",
-      "institution": "St Thomas Public School",
+      "institution": "Shishya Public School",
       "location": "Bengaluru, India",
-      "dateRange": "2015",
+      "dateRange": "2014",
       "achievements": [],
-      "grade": "92%"
+      "grade": "91%"
     }
   ],
   "projects": [
@@ -147,18 +147,22 @@
       "proficiency": "Proficient"
     },
     {
+      "name": "Malayalam",
+      "proficiency": "Proficient"
+    },
+    {
       "name": "Tamil",
       "proficiency": "Intermediate"
     },
     {
-      "name": "Malayalam",
+      "name": "Kannada",
       "proficiency": "Intermediate"
     }
   ],
   "socialProfiles": [
     {
       "name": "GitHub",
-      "link": "https://github.com/gammaSpeck"
+      "link": "https://github.com/cmarjun1000"
     }
   ]
 }
