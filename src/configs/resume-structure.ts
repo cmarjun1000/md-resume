@@ -1,6 +1,6 @@
 export default {
   personalInfo: {
-    fullName: 'C M Arju',
+    fullName: 'C M Arjun',
     jobStatus: 'Full Stack Developer', // Can also be the post you are looking for
     avatarPic: 'URL',
     contact: {
@@ -8,7 +8,7 @@ export default {
       email: 'cmarjun1000@gmail.com',
       address: 'Bengaluru, Karnataka, India',
       github: 'https://github.com/cmarjun1000',
-      linkedIn: 'https://www.linkedin.com/in/c-m-arjun-14b5031a0/'
+      linkedIn: 'linkedin.com/in/c-m-arjun-14b5031a0'
     }
   },
   experiences: [
@@ -22,12 +22,11 @@ export default {
       summary: {
         title: 'Responsibilities',
         actions: [
-          'Built architectural frameworks in NodeJS and React.js for the company.',
-          "Architected a project from the ground up upto the k8s deployment, and mentored the team in the project's entire SDLC.",
-          'Admin Console: Designed and built the MVP and launched beta; It is an administrative tool used by each one of our clients and our support teams.',
-          // 'Used Scrum Agile Methodology in my work (Daily Scrum Meetings, Planning Poker, Sprint Backlog, 1on1 meetings.',
-          'Component Owner for multiple components in the company.',
-          'Technical interviewer for campus recruitment.'
+          'Built inventory application for the company\'s internal usage.',
+          'Provided as a production support for issues that were faced by internal users.',
+          'Built a warehouse management system over the existing inventory management system which was the subset of the former.',
+          'Owner for multiple modules in the system.',
+          'Technical interviewer for team recruitment.'
         ]
       }
     },
@@ -37,10 +36,22 @@ export default {
       location: 'Bengaluru, India',
       dateRange: '10/2020 - 01/2021',
       summary: {
-        title: '',
+        title: 'Responsibilities',
         actions: [
-          'Built modules that were taken into production.',
-          'Built shared repository of common reusable modules.'
+          'Built modules used by internal users.',
+          'Integrated a 3rd party Warehouse Management System to in-home system.'
+        ]
+      }
+    },
+    {
+      title: 'Android Automation Analyst intern',
+      company: 'BlueBird India Pvt Ltd',
+      location: 'Bengaluru, India',
+      dateRange: '03/2020 - 05/2020',
+      summary: {
+        title: 'Responsibilities',
+        actions: [
+          'Developed python scripts to be able to automate features on the Android Enterprise devices using Robot Framework and RIDE.'
         ]
       }
     }
@@ -73,17 +84,17 @@ export default {
   ],
   projects: [
     {
-      title: 'Intelligent Intrusion Alerting',
-      dateRange: '03/2018',
-      location: 'Coimbatore, India', // Optional
-      summary: 'A smart system that photographs, identifies and alerts using ML and Image Processing.'
+      title: 'Plant Disease Detection',
+      dateRange: '06/2020',
+      location: 'Bengaluru, India',
+      summary: 'A smart system that identifies a disease(if any) in a plant using CNN and deep learning on the leaf.'
     },
     {
-      title: 'IoT Railway Gate Control',
-      dateRange: '02/2017',
-      location: 'Udaipur, India', // Optional
+      title: 'CET Rank Predictor',
+      dateRange: '02/2019',
+      location: 'Bengaluru, India',
       summary:
-        'A multi-tier IoT system that senses train movements, and automatically closes the railway crossing gate.'
+        'A web based application in which students can register their marks along with their personal information to help to predict their admissions in colleges and also to ensure optimal college selection.'
     }
   ],
   skills: [
@@ -97,7 +108,6 @@ export default {
         'Serverless',
         'Jenkins',
         'Kubernetes',
-        'Terraform',
         'Redis',
         'MySQL',
         'MongoDB'
@@ -105,11 +115,11 @@ export default {
     },
     {
       group: 'Frontend',
-      list: ['React', 'Redux', 'NextJS', 'Gatsby', 'MUI', 'Bootstrap', 'SASS', 'Less', 'Webpack4', 'Babel']
+      list: ['React', 'Redux', 'NextJS', 'MUI', 'Bootstrap', 'SASS', 'Webpack4', 'Babel']
     },
     {
       group: 'Testing frameworks',
-      list: ['Jest', 'Mocha', 'Swagger.io', 'Postman']
+      list: ['Selenium', 'Cypress', 'Swagger.io', 'Postman']
     }
   ],
   languages: [
