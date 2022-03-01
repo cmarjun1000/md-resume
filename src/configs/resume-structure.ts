@@ -84,13 +84,13 @@ export default {
   ],
   projects: [
     {
-      title: 'Plant Disease Detection',
+      title: 'Plant Disease Detection - CNN, Deep learning',
       dateRange: '06/2020',
       location: 'Bengaluru, India',
       summary: 'A smart system that identifies a disease(if any) in a plant using CNN and deep learning on the leaf.'
     },
     {
-      title: 'CET Rank Predictor',
+      title: 'CET Rank Predictor - HTML, PHP and CSS',
       dateRange: '02/2019',
       location: 'Bengaluru, India',
       summary:
