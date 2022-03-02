@@ -1,6 +1,6 @@
 # md-resume
 
-This is a sample full stack developer resume template that reads data from a JSON object and dynamically generates the HTML content for you. An example of this can be shown at this [sample-resume](https://resume.madhukm.com/). This is only one available template that will be generated but feel free to contribute and add more templates.
+This is a sample full stack developer resume template that reads data from a JSON object and dynamically generates the HTML content for you. An example of this can be shown at this [sample-resume](https://resume.cmarjun.com/). This is only one available template that will be generated but feel free to contribute and add more templates.
 
 ### `Pre-requisites`
 
