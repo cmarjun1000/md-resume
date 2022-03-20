@@ -98,7 +98,7 @@ export default {
     }
   ],
   skills: [
-    { group: 'Coding languages', list: ['Javascript', 'Typescript', 'HTML/CSS', 'Shell', 'Python'] },
+    { group: 'Coding languages', list: ['Javascript', 'HTML/CSS', 'Java', 'Python'] },
     {
       group: 'Backend',
       list: [
