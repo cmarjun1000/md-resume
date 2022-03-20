@@ -104,22 +104,19 @@ export default {
       list: [
         'NodeJS',
         'Express',
-        'AWS',
-        'Serverless',
-        'Jenkins',
-        'Kubernetes',
-        'Redis',
+        'MongoDB',
+        'PostgreSQL',
         'MySQL',
-        'MongoDB'
+        'AWS'
       ]
     },
     {
       group: 'Frontend',
-      list: ['React', 'Redux', 'NextJS', 'MUI', 'Bootstrap', 'SASS', 'Webpack4', 'Babel']
+      list: ['React', 'Bootstrap']
     },
     {
       group: 'Testing frameworks',
-      list: ['Selenium', 'Cypress', 'Swagger.io', 'Postman']
+      list: ['Selenium', 'Postman']
     }
   ],
   languages: [

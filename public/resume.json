@@ -114,34 +114,23 @@
       "list": [
         "NodeJS",
         "Express",
-        "AWS",
-        "Serverless",
-        "Jenkins",
-        "Kubernetes",
-        "Redis",
+        "MongoDB",
+        "PostgreSQL",
         "MySQL",
-        "MongoDB"
+        "AWS"
       ]
     },
     {
       "group": "Frontend",
       "list": [
         "React",
-        "Redux",
-        "NextJS",
-        "MUI",
-        "Bootstrap",
-        "SASS",
-        "Webpack4",
-        "Babel"
+        "Bootstrap"
       ]
     },
     {
       "group": "Testing frameworks",
       "list": [
         "Selenium",
-        "Cypress",
-        "Swagger.io",
         "Postman"
       ]
     }
