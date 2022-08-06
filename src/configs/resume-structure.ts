@@ -13,8 +13,8 @@ export default {
   },
   experiences: [
     {
-      title: 'Software Engineer',
-      company: 'BYJU\'s',
+      title: 'Software Engineer (Module Lead)',
+      company: 'BYJU\'S',
       location: 'Bengaluru, India',
       dateRange: '01/2021 - Ongoing',
       aboutCompany:
@@ -32,7 +32,7 @@ export default {
     },
     {
       title: 'Software Engineering Intern',
-      company: 'BYJU\'s',
+      company: 'BYJU\'S',
       location: 'Bengaluru, India',
       dateRange: '10/2020 - 01/2021',
       summary: {
@@ -98,12 +98,14 @@ export default {
     }
   ],
   skills: [
-    { group: 'Coding languages', list: ['Javascript', 'HTML/CSS', 'Java', 'Python'] },
+    { group: 'Coding languages', list: ['Javascript', 'HTML/CSS', 'Java'] },
     {
       group: 'Backend',
       list: [
         'NodeJS',
-        'Express',
+        'ExpressJS',
+        'Kafka',
+        'Serverless',
         'MongoDB',
         'PostgreSQL',
         'MySQL',
@@ -112,7 +114,7 @@ export default {
     },
     {
       group: 'Frontend',
-      list: ['React', 'Bootstrap']
+      list: ['ReactJS', 'NextJS', 'React Native', 'Bootstrap']
     },
     {
       group: 'Testing frameworks',
@@ -122,7 +124,7 @@ export default {
   languages: [
     { name: 'English', proficiency: 'Advanced' },
     { name: 'Hindi', proficiency: 'Proficient' },
-    { name: 'Malayalam', proficiency: 'Proficient' },
+    { name: 'Malayalam', proficiency: 'Native' },
     { name: 'Tamil', proficiency: 'Intermediate' },
     { name: 'Kannada', proficiency: 'Intermediate' }
   ],
