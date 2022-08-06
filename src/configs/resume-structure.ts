@@ -98,7 +98,7 @@ export default {
     }
   ],
   skills: [
-    { group: 'Coding languages', list: ['Javascript', 'HTML/CSS', 'Java'] },
+    { group: 'Coding languages', list: ['Javascript', 'Java', 'HTML/CSS'] },
     {
       group: 'Backend',
       list: [
@@ -109,7 +109,8 @@ export default {
         'MongoDB',
         'PostgreSQL',
         'MySQL',
-        'AWS'
+        'AWS',
+        'Microservices'
       ]
     },
     {
