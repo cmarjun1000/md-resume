@@ -103,8 +103,8 @@
       "group": "Coding languages",
       "list": [
         "Javascript",
-        "HTML/CSS",
-        "Java"
+        "Java",
+        "HTML/CSS"
       ]
     },
     {
@@ -117,7 +117,8 @@
         "MongoDB",
         "PostgreSQL",
         "MySQL",
-        "AWS"
+        "AWS",
+        "Microservices"
       ]
     },
     {
