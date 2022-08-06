@@ -95,6 +95,18 @@ export default {
       location: 'Bengaluru, India',
       summary:
         'A web based application in which students can register their marks along with their personal information to help to predict their admissions in colleges and also to ensure optimal college selection.'
+    },
+    {
+      title: 'Online Bidding System - HTML, PHP and CSS',
+      dateRange: '07/2018',
+      location: 'Bengaluru, India',
+      summary: 'A web based application in which bidders can register themselves to the app and take part in a virtual auction of item(s) that are posted.'
+    },
+    {
+      'title': 'Detection of brute force attacks - Wireshark',
+      'dateRange': '11/2017',
+      location: 'Bengaluru, India',
+      summary: 'A project where emails that were locally sent were evesdropped using Wireshark app.'
     }
   ],
   skills: [
