@@ -16,7 +16,7 @@ export default {
       title: 'Software Engineer (Module Lead)',
       company: 'BYJU\'S',
       location: 'Bengaluru, India',
-      dateRange: '01/2021 - Ongoing',
+      dateRange: '01/2021 - Ongoing (2+ yrs)',
       aboutCompany:
         'BYJU\'S is a global ed-tech company, providing highly adaptive, engaging and effective learning solutions to more than 150 million students around the world.',
       summary: {
@@ -26,7 +26,7 @@ export default {
           'Provided as a production support for issues that were faced by internal users.',
           'Built a warehouse management system over the existing inventory management system which was the subset of the former.',
           'Owner for multiple modules in the system.',
-          'Technical interviewer for team recruitment.'
+          'Member of Technical panel for team recruitment.'
         ]
       }
     },
@@ -110,16 +110,16 @@ export default {
     }
   ],
   skills: [
-    { group: 'Coding languages', list: ['Javascript', 'Java', 'HTML/CSS'] },
+    { group: 'Coding languages', list: ['Javascript', 'Typescript', 'Java', 'HTML/CSS'] },
     {
       group: 'Backend',
       list: [
         'NodeJS',
         'ExpressJS',
         'Kafka',
-        'Serverless',
         'MongoDB',
         'PostgreSQL',
+        'GraphQL',
         'MySQL',
         'AWS',
         'Microservices'
@@ -127,11 +127,11 @@ export default {
     },
     {
       group: 'Frontend',
-      list: ['ReactJS', 'NextJS', 'React Native', 'Bootstrap']
+      list: ['ReactJS', 'Redux', 'NextJS', 'React Native', 'Bootstrap']
     },
     {
       group: 'Testing frameworks',
-      list: ['Selenium', 'Postman']
+      list: ['Jest', 'Selenium', 'Postman', 'Swagger.io']
     }
   ],
   languages: [
