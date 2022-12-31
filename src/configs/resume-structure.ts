@@ -13,10 +13,24 @@ export default {
   },
   experiences: [
     {
+      title: 'Software Engineer 2',
+      company: 'Zemoso Technologies',
+      location: 'Hyderabad, India (remote)',
+      dateRange: '12/2022 - ongoing',
+      aboutCompany:
+        'Zemoso Technologies is a product-market-fit studio founded and maintained by successful corporate innovation bringing products from napkin to product market fit.',
+      summary: {
+        title: 'Responsibilities',
+        actions: [
+          'Designed & developed APIs and DB for a Node POC using Node, MongoDB and wrote unit tests using Jest.'
+        ]
+      }
+    },
+    {
       title: 'Software Engineer (Module Lead)',
       company: 'BYJU\'S',
       location: 'Bengaluru, India',
-      dateRange: '01/2021 - Ongoing (2+ yrs)',
+      dateRange: '10/2020 - 12/2022 (2+ yrs)',
       aboutCompany:
         'BYJU\'S is a global ed-tech company, providing highly adaptive, engaging and effective learning solutions to more than 150 million students around the world.',
       summary: {
@@ -27,19 +41,6 @@ export default {
           'Built a warehouse management system over the existing inventory management system which was the subset of the former.',
           'Owner for multiple modules in the system.',
           'Member of Technical panel for team recruitment.'
-        ]
-      }
-    },
-    {
-      title: 'Software Engineering Intern',
-      company: 'BYJU\'S',
-      location: 'Bengaluru, India',
-      dateRange: '10/2020 - 01/2021',
-      summary: {
-        title: 'Responsibilities',
-        actions: [
-          'Built modules used by internal users.',
-          'Integrated a 3rd party Warehouse Management System to in-home system.'
         ]
       }
     },
