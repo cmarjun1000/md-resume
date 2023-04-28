@@ -126,14 +126,13 @@
       "group": "Backend",
       "list": [
         "NodeJS",
-        "ExpressJS",
         "Springboot",
         "Kafka",
         "MongoDB",
-        "PostgreSQL",
+        "AWS",
         "GraphQL",
         "MySQL",
-        "AWS",
+        "PostgreSQL",
         "Microservices"
       ]
     },
@@ -144,7 +143,6 @@
         "Redux",
         "Storybook",
         "NextJS",
-        "React Native",
         "Bootstrap"
       ]
     },

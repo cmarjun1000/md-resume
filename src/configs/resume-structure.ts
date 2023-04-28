@@ -117,20 +117,19 @@ export default {
       group: 'Backend',
       list: [
         'NodeJS',
-        'ExpressJS',
         'Springboot',
         'Kafka',
         'MongoDB',
-        'PostgreSQL',
+        'AWS',
         'GraphQL',
         'MySQL',
-        'AWS',
+        'PostgreSQL',
         'Microservices'
       ]
     },
     {
       group: 'Frontend',
-      list: ['ReactJS', 'Redux', 'Storybook', 'NextJS', 'React Native', 'Bootstrap']
+      list: ['ReactJS', 'Redux', 'Storybook', 'NextJS', 'Bootstrap']
     },
     {
       group: 'Testing frameworks',
