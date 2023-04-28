@@ -23,7 +23,7 @@ export default {
         title: 'Responsibilities',
         actions: [
           'Designed & developed APIs and DB for a Node POC using Node, MongoDB and wrote unit tests using Jest.',
-          'Built Minet which is a digital payment platform that enables user to buy & sell cryptocurrencies and also maintain a portfolio using React, SprintBoot and test cases on jest.'
+          'Built Minet which is a digital payment platform that enables user to buy & sell cryptocurrencies and also maintain a portfolio using React, SpringBoot and test cases on jest.'
         ]
       }
     },
@@ -49,7 +49,7 @@ export default {
       title: 'Android Automation Analyst intern',
       company: 'BlueBird India Pvt Ltd',
       location: 'Bengaluru, India',
-      dateRange: '03/2020 - 05/2020',
+      dateRange: '03/2020 - 06/2020 (4 months)',
       summary: {
         title: 'Responsibilities',
         actions: [
@@ -118,6 +118,7 @@ export default {
       list: [
         'NodeJS',
         'ExpressJS',
+        'Springboot',
         'Kafka',
         'MongoDB',
         'PostgreSQL',
@@ -129,11 +130,11 @@ export default {
     },
     {
       group: 'Frontend',
-      list: ['ReactJS', 'Redux', 'NextJS', 'React Native', 'Bootstrap']
+      list: ['ReactJS', 'Redux', 'Storybook', 'NextJS', 'React Native', 'Bootstrap']
     },
     {
       group: 'Testing frameworks',
-      list: ['Jest', 'Selenium', 'Postman', 'Swagger.io']
+      list: ['Jest', 'Selenium', 'Postman', 'Swagger.io', 'Mockito']
     }
   ],
   languages: [
