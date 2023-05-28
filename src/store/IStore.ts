@@ -34,7 +34,6 @@ export interface IProject {
 export interface IPersonalInfo {
   fullName: string
   jobStatus: string
-  avatarPic: string
   contact: {
     mobile: string
     email: string
@@ -53,7 +52,6 @@ export interface IResume {
   personalInfo: IPersonalInfo
   education: IEducation[]
   experiences: IExperience[]
-  languages: ILanguage[]
   projects: IProject[]
   skills: ISkill[]
 }

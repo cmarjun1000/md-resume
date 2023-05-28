@@ -2,7 +2,6 @@
   "personalInfo": {
     "fullName": "C M Arjun",
     "jobStatus": "Full Stack Developer",
-    "avatarPic": "URL",
     "contact": {
       "mobile": "+91-9632106868",
       "email": "cmarjun1000@gmail.com",
@@ -88,16 +87,16 @@
   ],
   "projects": [
     {
-      "title": "Warehouse Management System - react, node, mongoDB, postgreSQL",
+      "title": "Warehouse Management System - React, Node, MongoDB, PostgreSQL",
       "dateRange": "02/2022",
       "location": "Bengaluru, India",
-      "summary": "An internal web application used by the in-house warehouse members and product managers to maintain a seamless flow of operations in the warehouse. From producing inventories to updating each inventory's status and analyzing orders coming from the order management application to setting up and shipping the inventories out of the warehouse to the customer via a delivery partner."
+      "summary": "An internal web application to maintain a seamless flow of operations in the warehouse. From producing inventories to updating each inventory's status and analyzing orders coming from the order management application to setting up and shipping the inventories out of the warehouse to the customer via a delivery partner."
     },
     {
-      "title": "Order Management System - React, node, mongoDB",
+      "title": "Order Management System - React, Node, MongoDB",
       "dateRange": "02/2021",
       "location": "Bengaluru, India",
-      "summary": "An internal web application that tracks sales, orders, and fulfilment. It includes product information, order details, order status, shipment status, product setup/installation status, the printing of shipment labels, bills, invoices, etc. From associating a shipment SKU to associating inventories to orders to shipping the orders and delivering it to the customers."
+      "summary": "An internal web application that tracks sales, orders, and fulfilment. It includes product information, order details, order status, shipment status, invoices, etc. From associating a shipment SKU to associating inventories to orders to shipping the orders and delivering it to the customers."
     },
     {
       "title": "Minet - React, Typescript, Springboot, Jest, Cypress, mysql",
