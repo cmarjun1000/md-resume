@@ -8,7 +8,6 @@ import Projects from './Projects'
 import Experiences from './Experiences'
 import Education from './Education'
 import Skills from './Skills'
-import Languages from './Languages'
 import GetAppIcon from '@material-ui/icons/GetApp'
 import { useDispatch } from 'react-redux'
 import { getResume } from '../store'
@@ -82,9 +81,6 @@ const App = () => {
                 </Grid>
                 <Grid item>
                   <Skills />
-                </Grid>
-                <Grid item>
-                  <Languages />
                 </Grid>
               </Grid>
             </Box>

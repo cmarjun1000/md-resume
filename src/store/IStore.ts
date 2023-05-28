@@ -53,7 +53,6 @@ export interface IResume {
   personalInfo: IPersonalInfo
   education: IEducation[]
   experiences: IExperience[]
-  languages: ILanguage[]
   projects: IProject[]
   skills: ISkill[]
 }
