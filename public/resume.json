@@ -99,7 +99,7 @@
       "summary": "An internal web application that tracks sales, orders, and fulfilment. It includes product information, order details, order status, shipment status, invoices, etc. From associating a shipment SKU to associating inventories to orders to shipping the orders and delivering it to the customers."
     },
     {
-      "title": "Minet - React, Typescript, Springboot, Jest, Cypress, mysql",
+      "title": "Minet - React, Typescript, Springboot, Jest, Cypress, MySQL",
       "dateRange": "03/2023",
       "location": "Bengaluru, India",
       "summary": "Minet is a digital payment platform that enables users to buy and sell cryptocurrencies, providing them with an easy and secure way to invest in and trade these assets. The platform offers users convenient management of their cryptocurrency portfolios and provides insightful chart representations to stay up-to-date on the latest market trends."
