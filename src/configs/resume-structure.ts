@@ -142,12 +142,5 @@ export default {
       list: ['Jest', 'Selenium', 'Postman', 'Swagger.io', 'Mockito']
     }
   ],
-  languages: [
-    { name: 'English', proficiency: 'Advanced' },
-    { name: 'Hindi', proficiency: 'Proficient' },
-    { name: 'Malayalam', proficiency: 'Native' },
-    { name: 'Tamil', proficiency: 'Intermediate' },
-    { name: 'Kannada', proficiency: 'Intermediate' }
-  ],
   socialProfiles: [{ name: 'GitHub', link: 'https://github.com/cmarjun1000' }]
 }
