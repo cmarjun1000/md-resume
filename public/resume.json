@@ -88,16 +88,22 @@
   ],
   "projects": [
     {
-      "title": "Plant Disease Detection - CNN, Deep learning",
-      "dateRange": "06/2020",
+      "title": "Warehouse Management System - react, node, mongoDB, postgreSQL",
+      "dateRange": "02/2022",
       "location": "Bengaluru, India",
-      "summary": "A smart system that identifies a disease(if any) in a plant using CNN and deep learning on the leaf."
+      "summary": "An internal web application used by the in-house warehouse members and product managers to maintain a seamless flow of operations in the warehouse. From producing inventories to updating each inventory's status and analyzing orders coming from the order management application to setting up and shipping the inventories out of the warehouse to the customer via a delivery partner."
     },
     {
-      "title": "CET Rank Predictor - HTML, PHP and CSS",
-      "dateRange": "02/2019",
+      "title": "Order Management System - React, node, mongoDB",
+      "dateRange": "02/2021",
       "location": "Bengaluru, India",
-      "summary": "A web based application in which students can register their marks along with their personal information to help to predict their admissions in colleges and also to ensure optimal college selection."
+      "summary": "An internal web application that tracks sales, orders, and fulfilment. It includes product information, order details, order status, shipment status, product setup/installation status, the printing of shipment labels, bills, invoices, etc. From associating a shipment SKU to associating inventories to orders to shipping the orders and delivering it to the customers."
+    },
+    {
+      "title": "Minet - React, Typescript, Springboot, Jest, Cypress, mysql",
+      "dateRange": "03/2023",
+      "location": "Bengaluru, India",
+      "summary": "Minet is a digital payment platform that enables users to buy and sell cryptocurrencies, providing them with an easy and secure way to invest in and trade these assets. The platform offers users convenient management of their cryptocurrency portfolios and provides insightful chart representations to stay up-to-date on the latest market trends."
     }, 
     {
       "title": "Online Bidding System - HTML, PHP and CSS",
