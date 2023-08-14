@@ -7,10 +7,12 @@ import HomeIcon from '@material-ui/icons/Home'
 import CallIcon from '@material-ui/icons/Call'
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
-import { makeStyles, Theme, createStyles } from '@material-ui/core'
+import { makeStyles, Theme, createStyles, Avatar } from '@material-ui/core'
 import { useSelector } from 'react-redux'
 import { RootState } from '../store'
 import Link from '@material-ui/core/Link'
+
+import avatar from '../assets/avatar.png'
 
 const contactIcons = {
   mobile: CallIcon,
@@ -23,6 +25,10 @@ const contactIcons = {
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
     bold: { fontWeight: 'bold' },
+    avatar: {
+      width: theme.spacing(20),
+      height: theme.spacing(20)
+    },
     contactInfo: {
       wordBreak: 'break-all'
     },
@@ -68,6 +74,14 @@ const PersonalInfo = () => {
           </Typography>
           <Grid container item xs={12} alignItems='flex-end' spacing={1}>
             {ContactInfo}
+          </Grid>
+        </Grid>
+      </Box>
+
+      <Box clone order={{ xs: 1, sm: 2 }}>
+        <Grid item xs={12} sm={5} container justify='center' alignItems='center'>
+          <Grid item>
+            <Avatar alt='C M Arjun' src={avatar} className={classes.avatar} />
           </Grid>
         </Grid>
       </Box>

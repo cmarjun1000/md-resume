@@ -2,6 +2,7 @@ export default {
   personalInfo: {
     fullName: 'C M Arjun',
     jobStatus: 'Full Stack Developer', // Can also be the post you are looking for
+    avatarPic: 'URL',
 
     contact: {
       mobile: '+91-9632106868',
@@ -135,7 +136,7 @@ export default {
     },
     {
       group: 'Frontend',
-      list: ['ReactJS', 'Redux', 'Storybook', 'NextJS', 'Bootstrap']
+      list: ['ReactJS', 'NextJS', 'Redux', 'MaterialUI', 'TailwindCSS']
     },
     {
       group: 'Testing frameworks',
