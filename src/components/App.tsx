@@ -53,9 +53,9 @@ const App = () => {
     <div className={classes.app}>
       <CssBaseline />
       <BackdropLoader />
-      {/* <Fab color='primary' aria-label='download' className={classes.fab} href={fileUrl} download>
+      <Fab color='primary' aria-label='download' className={classes.fab} href={fileUrl} download>
         <GetAppIcon />
-      </Fab> */}
+      </Fab>
       <Container maxWidth='md' className={classes.container}>
         <Grid container justify='space-between' spacing={3} style={{ marginBottom: '1rem' }}>
           <PersonalInfo />
