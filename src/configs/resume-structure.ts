@@ -6,7 +6,7 @@ export default {
 
     contact: {
       mobile: '+91-9632106868',
-      email: 'cmarjun1000@gmail.com',
+      email: 'cmarjun333@gmail.com',
       address: 'Bengaluru, Karnataka, India',
       github: 'https://github.com/cmarjun1000',
       linkedIn: 'https://linkedin.com/in/cm-arjun'
