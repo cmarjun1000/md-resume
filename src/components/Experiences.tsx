@@ -43,7 +43,7 @@ const Experiences = () => {
           )}
           {summary && (
             <Grid item>
-              <Typography variant='body1'>{summary.title}</Typography>
+              <Typography variant='subtitle2'>{summary.title}</Typography>
               <List dense>
                 {summary.actions.map((action: string, i: number) => (
                   <ListItem className={classes.noPadding} key={i}>

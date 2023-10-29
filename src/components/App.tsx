@@ -20,7 +20,7 @@ const useStyles = makeStyles((theme: Theme) =>
     },
     container: {
       backgroundColor: theme.palette.background.paper,
-      borderStyle: 'solid',
+      // borderStyle: 'solid',
       borderWidth: theme.spacing(0.1),
       padding: '3rem',
       [theme.breakpoints.down('sm')]: {
@@ -66,7 +66,7 @@ const App = () => {
               <Grid container direction='column' spacing={3}>
                 <Grid item xs={12}>
                   <Experiences />
-                </Grid>
+                </Grid><br /><br />
                 <Grid item xs={12}>
                   <Education />
                 </Grid>
@@ -78,7 +78,7 @@ const App = () => {
               <Grid container direction='column' spacing={3}>
                 <Grid item>
                   <Projects />
-                </Grid>
+                </Grid><br /><br />
                 <Grid item>
                   <Skills />
                 </Grid>
