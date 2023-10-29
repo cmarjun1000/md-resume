@@ -5,7 +5,7 @@
     "avatarPic": "URL",
     "contact": {
       "mobile": "+91-9632106868",
-      "email": "cmarjun1000@gmail.com",
+      "email": "cmarjun333@gmail.com",
       "address": "Bengaluru, Karnataka, India",
       "github": "https://github.com/cmarjun1000",
       "linkedIn": "https://linkedin.com/in/cm-arjun"
@@ -16,14 +16,15 @@
       "title": "Software Engineer 2",
       "company": "Zemoso Technologies",
       "location": "Hyderabad, India (remote)",
-      "dateRange": "12/2022 - 08/2023",
+      "dateRange": "12/2022 - 08/2023 (8 months)",
       "aboutCompany":
         "Zemoso Technologies is a product-market-fit studio founded and maintained by successful corporate innovation bringing products from napkin to product market fit.",
       "summary": {
         "title": "Responsibilities",
         "actions": [
           "Designed & developed APIs and DB for a Node POC using Node, MongoDB and wrote unit tests using Jest.",
-          "Built Minet which is a digital payment platform that enables user to buy & sell cryptocurrencies and also maintain a portfolio using React, SpringBoot and test cases on jest."
+          "Built Minet which is a digital payment platform that enables user to buy & sell cryptocurrencies and also maintain a portfolio using React, Typescript, SpringBoot and test cases on jest.",
+          "Developed Seeder which supports small/mid-sized businesses/startups to secure necessary funding to expand their operations. React, Typescript, Springboot were used."
         ]
       }
     },
@@ -59,7 +60,7 @@
   ],
   "education": [
     {
-      "title": "Bachelors in CS Engineering",
+      "title": "B.E. in Computer Science",
       "institution": "CMRIT",
       "location": "Bengaluru, India",
       "dateRange": "2016-2020",
@@ -102,20 +103,14 @@
     {
       "title": "Minet - React, Typescript, Springboot, Jest, Cypress, MySQL",
       "dateRange": "03/2023",
-      "location": "Bengaluru, India",
+      "location": "Hyderabad, India",
       "summary": "Minet is a digital payment platform that enables users to buy and sell cryptocurrencies, providing them with an easy and secure way to invest in and trade these assets. The platform offers users convenient management of their cryptocurrency portfolios and provides insightful chart representations to stay up-to-date on the latest market trends."
     }, 
     {
-      "title": "Online Bidding System - HTML, PHP and CSS",
-      "dateRange": "07/2018",
-      "location": "Bengaluru, India",
-      "summary": "A web based application in which bidders can register themselves to the app and take part in a virtual auction of item(s) that are posted."
-    },
-    {
-      "title": "Detection of brute force attacks - Wireshark",
-      "dateRange": "11/2017",
-      "location": "Bengaluru, India",
-      "summary": "A project where emails that were locally sent were evesdropped using Wireshark app."
+      "title": "Seeder - React, Typescript, Springboot, Jest, Cypress, MySQL",
+      "dateRange": "06/2023",
+      "location": "Hyderabad, India",
+      "summary": "Seeder is a digital funding platform that supports small/mid-sized businesses and startups in securing the necessary funding to expand their operations. This web-based application provides access to Growth capital through a group of individual investors, offering reliable and convenient way to achieve their growth objectives."
     }
   ],
   "skills": [
@@ -148,6 +143,7 @@
         "ReactJS",
         "NextJS",
         "Redux",
+        "Storybook",
         "MaterialUI",
         "TailwindCSS"
       ]
@@ -160,6 +156,19 @@
         "Postman",
         "Swagger.io",
         "Mockito"
+      ]
+    },
+    {
+      "group": "Other tools",
+      "list": [
+        "GitHub Actions",
+        "Docker",
+        "Webpack",
+        "Babel",
+        "System Design",
+        "Jenkins",
+        "Jira",
+        "Figma"
       ]
     }
   ],
