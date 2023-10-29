@@ -137,7 +137,7 @@ export default {
     },
     {
       group: 'Other tools',
-      list: ['GitHub Actions', 'Docker', 'Webpack', 'Babel', 'System Design', 'Jenkins', 'Jira', 'Figma']
+      list: ['GitHub Actions', 'Docker', 'Webpack', 'Babel', 'System Design', 'Git', 'Jenkins', 'Jira', 'Figma']
     }
   ],
   socialProfiles: [{ name: 'GitHub', link: 'https://github.com/cmarjun1000' }]
