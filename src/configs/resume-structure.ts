@@ -89,7 +89,7 @@ export default {
       title: 'Warehouse Management System - React, Node, MongoDB, PostgreSQL',
       dateRange: '02/2022',
       location: 'Bengaluru, India',
-      summary: 'An internal web application to maintain a seamless flow of operations in the warehouse. From producing inventories to updating each inventory\'s status and analyzing orders coming from the order management application to setting up and shipping the inventories out of the warehouse to the customer via a delivery partner.'
+      summary: 'An internal web app to maintain operations in the warehouse. From producing inventories to updating each inventory\'s status and analyzing orders coming from the order management app to setting up and shipping the inventories out of the warehouse to the customer via a delivery partner.'
     },
     {
       title: 'Order Management System - React, Node, MongoDB',
