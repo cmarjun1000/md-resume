@@ -23,7 +23,6 @@ export default {
       summary: {
         title: 'Responsibilities',
         actions: [
-          'Designed & developed APIs and DB for a Node POC using Node, MongoDB and wrote unit tests using Jest.',
           'Built Minet which is a digital payment platform that enables user to buy & sell cryptocurrencies and also maintain a portfolio using React, Typescript, SpringBoot and test cases on jest.',
           'Developed Seeder which supports small/mid-sized businesses/startups to secure necessary funding to expand their operations. React, Typescript, Springboot were used.'
         ]
@@ -40,7 +39,6 @@ export default {
         title: 'Responsibilities',
         actions: [
           'Developed and sustained an inventory management app for warehouse members and product managers leveraging MongoDB & PostgreSQL databases.',
-          'Provided as a production support for issues that were faced by internal users.',
           'Developed a warehouse management system over the existing inventory management system that augmented the functionality of the former.',
           'Developed an order management system that tracks sales, orders, and fulfilment using React, express and Node. And MongoDB for database.',
           'Member of Technical panel for team recruitment.'
