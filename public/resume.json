@@ -124,6 +124,17 @@
       ]
     },
     {
+      "group": "Frontend",
+      "list": [
+        "ReactJS",
+        "NextJS",
+        "Redux",
+        "Storybook",
+        "MaterialUI",
+        "TailwindCSS"
+      ]
+    },
+    {
       "group": "Backend",
       "list": [
         "NodeJS",
@@ -138,24 +149,14 @@
       ]
     },
     {
-      "group": "Frontend",
-      "list": [
-        "ReactJS",
-        "NextJS",
-        "Redux",
-        "Storybook",
-        "MaterialUI",
-        "TailwindCSS"
-      ]
-    },
-    {
       "group": "Testing frameworks",
       "list": [
         "Jest",
         "Selenium",
         "Postman",
         "Swagger.io",
-        "Mockito"
+        "Mockito",
+        "Cypress"
       ]
     },
     {

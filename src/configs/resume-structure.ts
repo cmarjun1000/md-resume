@@ -116,6 +116,10 @@ export default {
   skills: [
     { group: 'Coding languages', list: ['Javascript', 'Typescript', 'Java', 'HTML/CSS'] },
     {
+      group: 'Frontend',
+      list: ['ReactJS', 'NextJS', 'Redux', 'Storybook', 'MaterialUI', 'TailwindCSS']
+    },
+    {
       group: 'Backend',
       list: [
         'NodeJS',
@@ -130,12 +134,8 @@ export default {
       ]
     },
     {
-      group: 'Frontend',
-      list: ['ReactJS', 'NextJS', 'Redux', 'Storybook', 'MaterialUI', 'TailwindCSS']
-    },
-    {
       group: 'Testing frameworks',
-      list: ['Jest', 'Selenium', 'Postman', 'Swagger.io', 'Mockito']
+      list: ['Jest', 'Selenium', 'Postman', 'Swagger.io', 'Mockito', 'Cypress']
     },
     {
       group: 'Other tools',
