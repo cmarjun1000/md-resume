@@ -15,6 +15,22 @@ export default {
   experiences: [
     {
       title: 'Software Engineer 2',
+      company: 'Hy-Vee',
+      location: 'Bangalore, India',
+      dateRange: '12/2023(ongoing)',
+      aboutCompany:
+        'Hy-Vee, a thriving employee-owned grocery chain founded in 1930 with 350+ stores spread across in the Midwestern and Southern US, excels in quality, service, and community involvement.',
+      summary: {
+        title: 'Responsibilities',
+        actions: [
+          'Managed retail pricing app designed to enchance pricing strategies offering a product search directory with detailed info and historical pricing analysis along with Competitor module where prices are considered based on the Competitor\'s prices. App developed using React, Typescript, dotnet, GraphQL, Jest, Playwright, Xunit',
+          'Building and managing CI/CD pipelines using Concourse, using Docker consistently, using GCP & Splunk to monitor the logs and pods.',
+          'Technical Support for the store-directors in need of support and assistance'
+        ]
+      }
+    },
+    {
+      title: 'Software Engineer 2',
       company: 'Zemoso Technologies',
       location: 'Hyderabad, India (remote)',
       dateRange: '12/2022 - 08/2023 (8 months)',
@@ -109,10 +125,16 @@ export default {
       dateRange: '06/2023',
       location: 'Hyderabad, India',
       summary: 'Seeder is a digital funding platform that supports small/mid-sized businesses and startups in securing the necessary funding to expand their operations. This web-based application provides access to Growth capital through a group of individual investors, offering reliable and convenient way to achieve their growth objectives.'
+    },
+    {
+      title: 'Retail Pricing App - React, Typescript, dotnet, GraphQL, Jest, Playwright, PostgreSQL',
+      dateRange: '01/2024',
+      location: 'Bengaluru, India',
+      summary: 'Retail Pricing App is designed to enchance pricing strategies offering a product search directory with detailed info and historical pricing analysis along with Competitor pricing module where prices are considered based on the Competitor\'s prices.'
     }
   ],
   skills: [
-    { group: 'Coding languages', list: ['Javascript', 'Typescript', 'Java', 'HTML/CSS'] },
+    { group: 'Coding languages', list: ['Javascript', 'Typescript', 'Java', 'C sharp', 'HTML/CSS'] },
     {
       group: 'Frontend',
       list: ['ReactJS', 'NextJS', 'Redux', 'Storybook', 'MaterialUI', 'TailwindCSS']
@@ -121,23 +143,25 @@ export default {
       group: 'Backend',
       list: [
         'NodeJS',
-        'Springboot',
-        'Kafka',
-        'MongoDB',
-        'AWS',
         'GraphQL',
-        'MySQL',
+        'MongoDB',
         'PostgreSQL',
+        'Springboot',
+        'dotnet',
+        'Kafka',
+        'GCP',
+        'AWS',
+        'MySQL',
         'Microservices'
       ]
     },
     {
       group: 'Testing frameworks',
-      list: ['Jest', 'Selenium', 'Postman', 'Swagger.io', 'Mockito', 'Cypress']
+      list: ['Jest', 'Selenium', 'Postman', 'Swagger.io', 'Mockito', 'XUnit', 'Cypress', 'Playwright']
     },
     {
       group: 'Other tools',
-      list: ['GitHub Actions', 'Docker', 'Webpack', 'Babel', 'System Design', 'Git', 'Jenkins', 'Jira', 'Figma']
+      list: ['GitHub Actions', 'Docker', 'Concourse', 'Webpack', 'Babel', 'System Design', 'Git', 'Jenkins', 'Jira', 'Figma']
     }
   ],
   socialProfiles: [{ name: 'GitHub', link: 'https://github.com/cmarjun1000' }]
