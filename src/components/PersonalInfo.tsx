@@ -81,7 +81,7 @@ const PersonalInfo = () => {
       <Box clone order={{ xs: 1, sm: 2 }}>
         <Grid item xs={12} sm={5} container justify='center' alignItems='center'>
           <Grid item>
-            <Avatar alt='C M Arjun' src={avatar} className={classes.avatar} />
+            {/* <Avatar alt='C M Arjun' src={avatar} className={classes.avatar} /> */}
           </Grid>
         </Grid>
       </Box>

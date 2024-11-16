@@ -2,7 +2,6 @@
   "personalInfo": {
     "fullName": "C M Arjun",
     "jobStatus": "Full Stack Developer",
-    "avatarPic": "URL",
     "contact": {
       "mobile": "+91-9632106868",
       "email": "cmarjun333@gmail.com",
@@ -22,9 +21,9 @@
       "summary": {
         "title": "Responsibilities",
         "actions": [
-          "Managed retail pricing app designed to enchance pricing strategies offering a product search directory with detailed info and historical pricing analysis along with Competitor module where prices are considered based on the Competitor's prices. App developed using React, Typescript, dotnet, GraphQL, Jest, Playwright, Xunit",
-          "Building and managing CI/CD pipelines using Concourse, using Docker consistently, using GCP & Splunk to monitor the logs and pods.",
-          "Technical Support for the store-directors in need of support and assistance"
+          "Managed retail pricing app designed to enchance pricing strategies offering a product search directory with detailed info and historical pricing analysis along with Competitor module where prices are considered based on the Competitor's prices.",
+          "Building and managing CI/CD pipelines using Concourse, using Docker consistently, using GCP & Splunk to monitor the logs and pods in case of production issues, pricing data mismatches and bug reports.",
+          "Technical Support for the store-directors in need of support and assistance."
         ]
       }
     },
@@ -130,7 +129,7 @@
       "title": "Retail Pricing App - React, Typescript, dotnet, GraphQL, Jest, Playwright, PostgreSQL",
       "dateRange": "01/2024",
       "location": "Bengaluru, India",
-      "summary": "Retail Pricing App is designed to enchance pricing strategies offering a product search directory with detailed info and historical pricing analysis along with Competitor pricing module where prices are considered based on the Competitor's prices."
+      "summary": "Retail Pricing App is designed to provide a platform for the store directors in each store to manually be able to define prices for each of the items based on the product sales and market standards, It also offers a product search directory with detailed information that contains the historical pricing analysis. It also includes a Competitor pricing module where prices are considered based on the Competitor's prices."
     }
   ],
   "skills": [
