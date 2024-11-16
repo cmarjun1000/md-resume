@@ -9,11 +9,7 @@ export const getResume = createAsyncThunk('appStore/getResume', async (_, { reje
     const { data } = await Axios.get(configs.resumePublicURL)
     return data
   } catch (err) {
-    const { response } = err
-    if (!response) {
-      throw err
-    }
-    return rejectWithValue(response)
+    throw err
   }
 })
 

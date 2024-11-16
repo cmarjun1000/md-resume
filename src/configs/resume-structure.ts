@@ -2,6 +2,7 @@ export default {
   personalInfo: {
     fullName: 'C M Arjun',
     jobStatus: 'Full Stack Developer', // Can also be the post you are looking for
+    avatarPic: 'URL',
 
     contact: {
       mobile: '+91-9632106868',
