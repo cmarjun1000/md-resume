@@ -7,12 +7,12 @@ import HomeIcon from '@material-ui/icons/Home'
 import CallIcon from '@material-ui/icons/Call'
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
-import { makeStyles, Theme, createStyles, Avatar } from '@material-ui/core'
+import { makeStyles, Theme, createStyles } from '@material-ui/core'
 import { useSelector } from 'react-redux'
 import { RootState } from '../store'
 import Link from '@material-ui/core/Link'
 
-import avatar from '../assets/avatar.png'
+// import avatar from '../assets/avatar.png'
 
 const contactIcons = {
   mobile: CallIcon,
