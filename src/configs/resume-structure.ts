@@ -122,22 +122,22 @@ export default {
         'An internal web app that tracks sales, orders, and fulfilment. It includes product information, order details, order status, shipment status, invoices, etc. From associating a shipment SKU to associating inventories to orders to shipping the orders and delivering it to the customers.'
     },
     {
+      title: 'Suppler Hub - Next, Typescript, Jest',
+      dateRange: '01/2025',
+      location: 'Bengaluru, India',
+      summary: 'App designed to provide a platform for the vendors and suppliers to be able to manage items and offers for each of the items in batches that are being supplied to the stores.'
+    },
+    {
       title: 'Minet - React, Typescript, Springboot, Jest, Cypress, MySQL',
       dateRange: '03/2023',
       location: 'Hyderabad, India',
-      summary: 'A digital payment platform that enables users to transact cryptocurrencies, providing them with an easy and secure way to invest in and trade these assets. The platform offers users convenient management of their cryptocurrency portfolios and provides insightful chart representations to stay up-to-date on the latest market trends.'
+      summary: 'A digital payment platform that enables users to transact cryptocurrencies, providing them with an easy & secure way to invest in and trade these assets, also offering users management of their portfolios and insightful chart representations to stay up-to-date on the latest market trends.'
     },
     {
       title: 'Seeder - React, Typescript, Springboot, Jest, Cypress, MySQL',
       dateRange: '06/2023',
       location: 'Hyderabad, India',
       summary: 'A digital funding platform that supports small/mid-sized businesses and startups in securing the necessary funding to expand their operations. This web-based app provides access to Growth capital through a group of individual investors, offering reliable and convenient way to achieve their growth objectives.'
-    },
-    {
-      title: 'Suppler Hub - Next, Typescript, Jest',
-      dateRange: '01/2025',
-      location: 'Bengaluru, India',
-      summary: 'App designed to provide a platform for the vendors and suppliers to be able to manage items and offers for each of the items in batches that are being supplied to the stores.'
     }
   ],
   skills: [
