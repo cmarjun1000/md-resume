@@ -112,14 +112,14 @@ export default {
       title: 'Retail Pricing App - React, Typescript, dotnet, GraphQL, Jest, Playwright, PostgreSQL',
       dateRange: '01/2024',
       location: 'Bengaluru, India',
-      summary: 'App designed to provide a platform for the store directors to manually be able to define prices for each of the items based on the product sales and market standards, It offers a product search directory with detailed info that contains the historical pricing analysis. It includes a Competitor pricing module where prices are considered based on the Competitor\'s prices.'
+      summary: 'App designed to provide a platform for the store directors to be able to define prices for items based on the product sales and market standards, offers a product search directory with detailed info that contains the historical pricing analysis including a Competitor pricing module where prices are considered based on the Competitor\'s prices.'
     },
     {
       title: 'Order Management System - React, Node, MongoDB',
       dateRange: '02/2021',
       location: 'Bengaluru, India',
       summary:
-        'An internal web application that tracks sales, orders, and fulfilment. It includes product information, order details, order status, shipment status, invoices, etc. From associating a shipment SKU to associating inventories to orders to shipping the orders and delivering it to the customers.'
+        'An internal web app that tracks sales, orders, and fulfilment. It includes product information, order details, order status, shipment status, invoices, etc. From associating a shipment SKU to associating inventories to orders to shipping the orders and delivering it to the customers.'
     },
     {
       title: 'Minet - React, Typescript, Springboot, Jest, Cypress, MySQL',
@@ -131,7 +131,7 @@ export default {
       title: 'Seeder - React, Typescript, Springboot, Jest, Cypress, MySQL',
       dateRange: '06/2023',
       location: 'Hyderabad, India',
-      summary: 'A digital funding platform that supports small/mid-sized businesses and startups in securing the necessary funding to expand their operations. This web-based application provides access to Growth capital through a group of individual investors, offering reliable and convenient way to achieve their growth objectives.'
+      summary: 'A digital funding platform that supports small/mid-sized businesses and startups in securing the necessary funding to expand their operations. This web-based app provides access to Growth capital through a group of individual investors, offering reliable and convenient way to achieve their growth objectives.'
     },
     {
       title: 'Suppler Hub - Next, Typescript, Jest',
