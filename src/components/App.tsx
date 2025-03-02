@@ -78,7 +78,7 @@ const App = () => {
               <Grid container direction='column' spacing={3}>
                 <Grid item>
                   <Projects />
-                </Grid><br /><br /><br /><br /><br /><br /><br /><br /><br />
+                </Grid><br /><br />
                 <Grid item>
                   <Skills />
                 </Grid>
