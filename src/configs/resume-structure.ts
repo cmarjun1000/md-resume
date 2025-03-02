@@ -109,6 +109,12 @@ export default {
       summary: 'An internal web app to maintain operations in the warehouse. From producing inventories to updating each inventory\'s status and analyzing orders coming from the order management app to setting up and shipping the inventories out of the warehouse to the customer via a delivery partner.'
     },
     {
+      title: 'Retail Pricing App - React, Typescript, dotnet, GraphQL, Jest, Playwright, PostgreSQL',
+      dateRange: '01/2024',
+      location: 'Bengaluru, India',
+      summary: 'App designed to provide a platform for the store directors to manually be able to define prices for each of the items based on the product sales and market standards, It offers a product search directory with detailed info that contains the historical pricing analysis. It includes a Competitor pricing module where prices are considered based on the Competitor\'s prices.'
+    },
+    {
       title: 'Order Management System - React, Node, MongoDB',
       dateRange: '02/2021',
       location: 'Bengaluru, India',
@@ -119,19 +125,19 @@ export default {
       title: 'Minet - React, Typescript, Springboot, Jest, Cypress, MySQL',
       dateRange: '03/2023',
       location: 'Hyderabad, India',
-      summary: 'Minet is a digital payment platform that enables users to buy and sell cryptocurrencies, providing them with an easy and secure way to invest in and trade these assets. The platform offers users convenient management of their cryptocurrency portfolios and provides insightful chart representations to stay up-to-date on the latest market trends.'
+      summary: 'A digital payment platform that enables users to transact cryptocurrencies, providing them with an easy and secure way to invest in and trade these assets. The platform offers users convenient management of their cryptocurrency portfolios and provides insightful chart representations to stay up-to-date on the latest market trends.'
     },
     {
       title: 'Seeder - React, Typescript, Springboot, Jest, Cypress, MySQL',
       dateRange: '06/2023',
       location: 'Hyderabad, India',
-      summary: 'Seeder is a digital funding platform that supports small/mid-sized businesses and startups in securing the necessary funding to expand their operations. This web-based application provides access to Growth capital through a group of individual investors, offering reliable and convenient way to achieve their growth objectives.'
+      summary: 'A digital funding platform that supports small/mid-sized businesses and startups in securing the necessary funding to expand their operations. This web-based application provides access to Growth capital through a group of individual investors, offering reliable and convenient way to achieve their growth objectives.'
     },
     {
-      title: 'Retail Pricing App - React, Typescript, dotnet, GraphQL, Jest, Playwright, PostgreSQL',
-      dateRange: '01/2024',
+      title: 'Suppler Hub - Next, Typescript, Jest',
+      dateRange: '01/2025',
       location: 'Bengaluru, India',
-      summary: 'Retail Pricing App is designed to provide a platform for the store directors in each store to manually be able to define prices for each of the items based on the product sales and market standards, It also offers a product search directory with detailed information that contains the historical pricing analysis. It also includes a Competitor pricing module where prices are considered based on the Competitor\'s prices.'
+      summary: 'App designed to provide a platform for the vendors and suppliers to be able to manage items and offers for each of the items in batches that are being supplied to the stores.'
     }
   ],
   skills: [
