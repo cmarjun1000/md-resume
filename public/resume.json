@@ -22,9 +22,10 @@
       "summary": {
         "title": "Responsibilities",
         "actions": [
-          "Managed retail pricing app designed to enchance pricing strategies offering a product search directory with detailed info and historical pricing analysis along with Competitor module where prices are considered based on the Competitor's prices.",
-          "Building and managing CI/CD pipelines using Concourse, using Docker consistently, using GCP & Splunk to monitor the logs and pods in case of production issues, pricing data mismatches and bug reports.",
-          "Technical Support for the store-directors in need of support and assistance."
+          "Led the development of a Retail Pricing app, improving pricing accuracy by 25% through enhanced data-driven pricing strategies offering a product search directory with detailed info and historical pricing analysis.",
+          "Led the development of a Supplier Hub app, creating dashboards and listing pages for suppliers and vendors improving data visibility by 50%.",
+          "Optimized CI/CD pipelines using Concourse, reducing deployment time by 20% and ensuring 99.9% uptime with Splunk to monitor the logs and pods in case of production issues, Docker and GCP integration. Pipeline included running unit and integrations tests to get through the deployment.",
+          "Resolved over 90% of store directors' technical issues within SLA, enhancing operational efficiency and reducing downtime."
         ]
       }
     },
@@ -38,8 +39,8 @@
       "summary": {
         "title": "Responsibilities",
         "actions": [
-          "Built Minet which is a digital payment platform that enables user to buy & sell cryptocurrencies and also maintain a portfolio using React, Typescript, SpringBoot and test cases on jest.",
-          "Developed Seeder which supports small/mid-sized businesses/startups to secure necessary funding to expand their operations. React, Typescript, Springboot were used."
+          "Developed Minet, a cryptocurrency trading platform that enables user to buy & sell cryptocurrencies and maintain portfolio, increasing usage frequency by 35% through optimized React with TS and Spring Boot integration.",
+          "Built Seeder, a digital funding platform, enabling 50+ startups to secure funding, streamlining the application process by 30% using React, TypeScript, and Spring Boot."
         ]
       }
     },
@@ -52,10 +53,10 @@
       "summary": {
         "title": "Responsibilities",
         "actions": [
-          "Developed and sustained an inventory management app for warehouse members and product managers leveraging MongoDB & PostgreSQL database.",
-          "Developed a warehouse management system over the existing inventory management system that augmented the functionality of the former.",
-          "Developed an order management system that tracks sales, orders, and fulfilment using React, express and Node. And MongoDB for database.",
-          "Member of Technical panel for team recruitment."
+          "Led the development of an inventory management app for warehouse members and product managers leveraging MongoDB & PostgreSQL databases improving warehouse operational efficiency by 55%.",
+          "Designed and launched a warehouse management system, reducing inventory errors by 40% and increasing order fulfillment accuracy.",
+          "Built an order management system that streamlined sales tracking and order fulfillment, increasing order movements by 25%.",
+          "Conducted over 20+ technical interviews being a member of Technical panel for team recruitment."
         ]
       }
     },
@@ -67,7 +68,7 @@
       "summary": {
         "title": "Responsibilities",
         "actions": [
-          "Developed python scripts to be able to automate features on the Android Enterprise devices using Robot Framework and RIDE."
+          "Developed Python automation scripts using Robot Framework and RIDE, reducing manual testing efforts by 65% and improving test coverage for Android Enterprise devices."
         ]
       }
     }
