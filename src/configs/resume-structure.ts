@@ -103,26 +103,26 @@ export default {
   ],
   projects: [
     {
-      title: 'Warehouse Management System - React, Node, MongoDB, PostgreSQL',
-      dateRange: '02/2022',
-      location: 'Bengaluru, India',
-      summary: 'An internal web app to maintain operations in the warehouse. From producing inventories to updating each inventory\'s status and analyzing orders coming from the order management app to setting up and shipping the inventories out of the warehouse to the customer via a delivery partner.'
-    },
-    {
-      title: 'Retail Pricing App - React, Typescript, dotnet, GraphQL, Jest, Playwright, PostgreSQL',
+      title: 'Retail Pricing App - React, Typescript, dotnet, GraphQL, Jest, Playwright, PostgreSQL, GCP',
       dateRange: '01/2024',
       location: 'Bengaluru, India',
       summary: 'App designed to provide a platform for the store directors to be able to define prices for items based on the product sales and market standards, offers a product search directory with detailed info that contains the historical pricing analysis including a Competitor pricing module where prices are considered based on the Competitor\'s prices.'
     },
     {
-      title: 'Order Management System - React, Node, MongoDB',
+      title: 'Warehouse Management System - React, Node, MongoDB, PostgreSQL, AWS',
+      dateRange: '02/2022',
+      location: 'Bengaluru, India',
+      summary: 'An internal web app to maintain operations in the warehouse. From producing inventories to updating each inventory\'s status and analyzing orders coming from the order management app to setting up and shipping the inventories out of the warehouse to the customer via a delivery partner.'
+    },
+    {
+      title: 'Order Management System - React, Node, MongoDB, AWS',
       dateRange: '02/2021',
       location: 'Bengaluru, India',
       summary:
         'An internal web app that tracks sales, orders, and fulfilment. It includes product information, order details, order status, shipment status, invoices, etc. From associating a shipment SKU to associating inventories to orders to shipping the orders and delivering it to the customers.'
     },
     {
-      title: 'Suppler Hub - Next, Typescript, Jest',
+      title: 'Suppler Hub - Next, Typescript, Jest, GCP',
       dateRange: '01/2025',
       location: 'Bengaluru, India',
       summary: 'App designed to provide a platform for the vendors and suppliers to be able to manage items and offers for each of the items in batches that are being supplied to the stores.'
