@@ -109,13 +109,13 @@ export default {
       summary: 'App designed to provide a platform for the store directors to be able to define prices for items based on the product sales and market standards, offers a product search directory with detailed info that contains the historical pricing analysis including a Competitor pricing module where prices are considered based on the Competitor\'s prices.'
     },
     {
-      title: 'Warehouse Management System - React, Node, MongoDB, PostgreSQL, AWS',
+      title: 'Warehouse Management System - React, Node, MongoDB, PostgreSQL, AWS S3, EC2, Lambda',
       dateRange: '02/2022',
       location: 'Bengaluru, India',
       summary: 'An internal web app to maintain operations in the warehouse. From producing inventories to updating each inventory\'s status and analyzing orders coming from the order management app to setting up and shipping the inventories out of the warehouse to the customer via a delivery partner.'
     },
     {
-      title: 'Order Management System - React, Node, MongoDB, AWS',
+      title: 'Order Management System - React, Node, MongoDB, AWS S3, EC2, Lambda',
       dateRange: '02/2021',
       location: 'Bengaluru, India',
       summary:
